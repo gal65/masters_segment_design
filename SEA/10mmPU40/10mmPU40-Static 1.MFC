@@ -1,0 +1,16 @@
+[StartTime]
+10mmPU40-Static 1.MFC=1m:0s
+[SolverState]
+10mmPU40-Static 1.MFC=1
+[MainFrame]
+10mmPU40-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
+[ShowMin]
+10mmPU40-Static 1.MFC=No
+[SolverType]
+10mmPU40-Static 1.MFC=Linear Analysis
+[StudyType]
+10mmPU40-Static 1.MFC=0
+[StudyName]
+10mmPU40-Static 1.MFC=Static 1
+[Solver]
+10mmPU40-Static 1.MFC=Iterative
