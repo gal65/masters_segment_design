@@ -22,7 +22,7 @@
 ****************************************************************
 
 Problem name: \\file\Usersg$\gal65\Home\My Documents\~
-Date        : 05/01/2023     Time:   18:10:15
+Date        : 05/03/2023     Time:   17:36:02
 
 
  SYSTEM OF UNITS:
@@ -129,15 +129,15 @@ Date        : 05/01/2023     Time:   18:10:15
  MINIMUM/MAXIMUM DISPLACEMENTS
 
   NODE       539          524           25            0            0            0
-  MIN.  -3.94292E-04 -4.01893E-04 -9.01058E-06   0.0000       0.0000       0.0000    
+  MIN.  -2.62861E-04 -2.67929E-04 -6.00705E-06   0.0000       0.0000       0.0000    
 
   NODE      9539          949           33            0            0            0
-  MAX.   3.94024E-04  4.01389E-04  8.79367E-06   0.0000       0.0000       0.0000    
+  MAX.   2.62683E-04  2.67593E-04  5.86245E-06   0.0000       0.0000       0.0000    
 
  MAXIMUM RESULTANT DISPLACEMENT
 
   NODE       561
-  MAX.   4.01978E-04
+  MAX.   2.67986E-04
 
 
 
@@ -167,8 +167,8 @@ Date        : 05/01/2023     Time:   18:10:15
    E R R O R    E S T I M A T I O N
    (for requested elements)
 
-   Total Strain Energy (TSE)        =  0.369487E-03
-   Total Error Energy (TEE)         =  0.123197E-04
+   Total Strain Energy (TSE)        =  0.246325E-03
+   Total Error Energy (TEE)         =  0.821312E-05
    Ave. Percentage Error (APE)      =  0.128054E+02
      ( APE =  sqrt (TEE/(TSE*2. + TEE)) * 100. )
 
@@ -178,11 +178,11 @@ Date        : 05/01/2023     Time:   18:10:15
      TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX=       0
      TIME FOR FFEPLUS (PCG ITERATIVE) SOLVER . . . . . =       2
      TIME FOR AL CONTACT (AND/OR LARGE DISP) OPERATIONS=       0
-     TIME FOR REACTION FORCE & DISP UPDATE TO POST . . =      55
-     TIME FOR STRESS CALCULATION . . . . . . . . . . . =       2
+     TIME FOR REACTION FORCE & DISP UPDATE TO POST . . =      45
+     TIME FOR STRESS CALCULATION . . . . . . . . . . . =       1
      TIME FOR LOAD CASE SOLUTIONS  . . . . . . . . . . =       0
-      T O T A L   S O L U T I O N   T I M E  . . . . . =      61
+      T O T A L   S O L U T I O N   T I M E  . . . . . =      51
 
 
 
-T O T A L   S O L U T I O N   T I M E (sec) . . . . =      61
+T O T A L   S O L U T I O N   T I M E (sec) . . . . =      51
