@@ -1,0 +1,16 @@
+[StartTime]
+Assembly-Static 1.MFC=56s
+[SolverState]
+Assembly-Static 1.MFC=1
+[MainFrame]
+Assembly-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
+[ShowMin]
+Assembly-Static 1.MFC=No
+[SolverType]
+Assembly-Static 1.MFC=Linear Analysis
+[StudyType]
+Assembly-Static 1.MFC=0
+[StudyName]
+Assembly-Static 1.MFC=Static 1
+[Solver]
+Assembly-Static 1.MFC=Iterative
